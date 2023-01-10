@@ -7,14 +7,14 @@
         <hint>App to track loaned assets</hint>
         <name/>
         <order/>
-        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
+        <roles>x_cdltd_loaner_req.loaner_request_user,x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-09 09:32:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>34108b518c1421107f447a4fcd671e37</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">69eeba598cd021107f447a4fcd671e62</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Loaner Request">69eeba598cd021107f447a4fcd671e62</sys_scope>
         <sys_update_name>sys_app_application_34108b518c1421107f447a4fcd671e37</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-09 09:32:39</sys_updated_on>
+        <sys_updated_on>2023-01-10 18:12:07</sys_updated_on>
         <title>Loaner Request</title>
         <view_name/>
     </sys_app_application>
